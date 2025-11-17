@@ -59,32 +59,6 @@ Open any template, replace the sample data with yours, and adjust labels/colors 
 - **[Quick Reference](QUICK_REFERENCE.md)** - Fast template selection guide
 - **[Examples Gallery](templates/)** - Sample outputs from each template and the corresponding python file
 
-## 💡 Example Usage
-
-```python
-import matplotlib.pyplot as plt
-import numpy as np
-
-# Load template settings
-from template_line_plot import *
-
-# Your data
-x = np.linspace(0, 10, 100)
-y = np.sin(x)
-
-# Create figure
-fig, ax = plt.subplots(figsize=(6.2, 6.0))
-ax.plot(x, y, 'r-', linewidth=2.0, label='sin(x)')
-
-# Apply template styling
-ax.set_xlabel(r'$x$ (units)', fontsize=24)
-ax.set_ylabel(r'$y$ (units)', fontsize=24)
-ax.legend(loc='upper right', fontsize=20)
-ax.tick_params(which='major', direction='in', length=10, width=1.5)
-
-plt.savefig('my_plot.pdf', bbox_inches='tight', dpi=300)
-plt.show()
-```
 
 ## 🎨 Features Highlights
 
@@ -156,15 +130,6 @@ Each template follows a consistent structure:
 # 8. Additional tips and examples
 ```
 
-## 🤝 Contributing
-
-Contributions are welcome! Whether it's:
-- Bug fixes
-- New templates
-- Documentation improvements
-- Example figures
-
-Please feel free to submit issues or pull requests.
 
 ## 📄 License
 
