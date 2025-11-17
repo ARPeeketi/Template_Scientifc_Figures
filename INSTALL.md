@@ -15,8 +15,8 @@ For most users, this is all you need:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/scientific-plotting-templates.git
-cd scientific-plotting-templates
+git clone https://github.com/ARPeeketi/Template_Scientifc_Figures/.git
+cd Template_Scientifc_Figures
 
 # Install Python dependencies
 pip install -r requirements.txt
