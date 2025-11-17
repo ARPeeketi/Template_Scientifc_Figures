@@ -46,7 +46,17 @@ cd Template_Scientifc_Figures
 pip install -r requirements.txt
 ```
 
-### 3. Run a template
+OR
+
+```bash
+pip install numpy matplotlib scipy pandas scikit-learn
+```
+
+### 3. Install LaTeX
+
+Install LaTeX based on your system (https://www.latex-project.org/get/#tex-distributions)
+
+### 4. Run a template
 ```bash
 python template_line_plot.py
 ```
