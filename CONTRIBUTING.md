@@ -121,7 +121,7 @@ We'd love to include more templates! A good template should:
 
 1. **Fork the repository**
    - Click "Fork" on GitHub
-   - Clone your fork: `git clone https://github.com/your-username/scientific-plotting-templates.git`
+   - Clone your fork: `git clone https://github.com/ARPeeketi/Template_Scientifc_Figures.git`
 
 2. **Create a branch**:
    ```bash
