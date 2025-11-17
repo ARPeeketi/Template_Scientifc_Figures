@@ -1,0 +1,17 @@
+# Scientific Plotting Templates - Python Package Requirements
+# Install with: pip install -r requirements.txt
+
+# Core dependencies (required)
+numpy>=1.19.0
+matplotlib>=3.3.0
+
+# Optional dependencies for enhanced functionality
+scipy>=1.5.0              # For statistical functions, curve fitting, distributions
+pandas>=1.1.0             # For reading CSV/Excel files, data manipulation
+
+# Additional optional packages
+# Uncomment if needed:
+# seaborn>=0.11.0         # Enhanced color palettes and statistical plots
+# pillow>=8.0.0           # Image processing (for image overlays)
+# openpyxl>=3.0.0         # Excel file support (.xlsx)
+# xlrd>=2.0.0             # Excel file support (.xls)
