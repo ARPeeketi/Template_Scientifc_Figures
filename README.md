@@ -8,7 +8,7 @@ A comprehensive collection of production-ready matplotlib templates for creating
 
 ## 🎯 Features
 
-- **12 Complete Templates** covering all common scientific plot types
+- **11 Complete Templates** covering all common scientific plot types
 - **Publication-Ready** with LaTeX support for professional typography
 - **Extensively Commented** code with clear explanations for every section
 - **Beginner-Friendly** with step-by-step instructions and customization tips
@@ -35,8 +35,8 @@ A comprehensive collection of production-ready matplotlib templates for creating
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/scientific-plotting-templates.git
-cd scientific-plotting-templates
+git clone https://github.com/ARPeeketi/Template_Scientifc_Figures.git
+cd Template_Scientifc_Figures
 ```
 
 ### 2. Install dependencies
@@ -174,8 +174,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Akhil Reddy Peeketi**
 - Postdoctoral Research Associate, Los Alamos National Laboratory
-- Research: Machine-learning molecular dynamics for electrocatalysis
-- Email: [your-email@example.com]
+- Research: Quantum-to-Continuum Scale Modeling for Advanced Energy and Actuation Materials
+- Email: peeketiakhilreddy@gmail.com
 
 ## 🙏 Acknowledgments
 
