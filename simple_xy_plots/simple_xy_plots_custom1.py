@@ -218,4 +218,3 @@ ax.tick_params(which='major', direction='in', length=10, width=1.5)
 ax")){
     "multiple": false
 }]}
-
