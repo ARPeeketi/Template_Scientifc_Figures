@@ -44,7 +44,7 @@ A comprehensive guide to using the Scientific Plotting Templates, from beginner 
 1. **Open a terminal/command prompt**
 2. **Navigate to the templates directory:**
    ```bash
-   cd path/to/scientific-plotting-templates
+   cd path/to/Template_Scientifc_Figures
    ```
 3. **Run a simple template:**
    ```bash
