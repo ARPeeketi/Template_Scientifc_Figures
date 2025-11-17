@@ -101,6 +101,14 @@ ax.annotate('Peak', xy=(3.14, 1.0), xytext=(5, 1.3),
            arrowprops=dict(arrowstyle='->', lw=2))
 ```
 
+### Modify Axis Labels
+```python
+ax.set_xlabel('Time (s)', fontsize=fs) #Regular text
+ax.set_xlabel(r'$\alpha$ (degrees)', fontsize=fs) #   LaTeX math
+ax.set_xlabel(r'Temperature (\SI{}{\degreeCelsius})', fontsize=fs) # Using SI Units
+
+```
+
 ## 📋 Requirements
 
 - Python 3.7+
