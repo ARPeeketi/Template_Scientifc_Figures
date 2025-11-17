@@ -1,12 +1,8 @@
-"""
 MATPLOTLIB PLOTTING TEMPLATES - README
 =======================================
 
 This collection provides publication-quality plotting templates for scientific visualization.
 All templates include comprehensive comments explaining options, parameters, and styling choices.
-
-Author: Based on analysis of computational research notebooks
-Date: November 2024
 
 OVERVIEW
 ========
