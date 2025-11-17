@@ -57,7 +57,7 @@ Open any template, replace the sample data with yours, and adjust labels/colors 
 - **[Installation Guide](INSTALL.md)** - Detailed setup instructions including LaTeX configuration
 - **[Tutorial](TUTORIAL.md)** - Comprehensive guide for beginners
 - **[Quick Reference](QUICK_REFERENCE.md)** - Fast template selection guide
-- **[Examples Gallery](examples/)** - Sample outputs from each template
+- **[Examples Gallery](templates/)** - Sample outputs from each template and the corresponding python file
 
 ## 💡 Example Usage
 
