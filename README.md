@@ -1,6 +1,8 @@
 # Scientific Plotting Templates for Python
 
-A comprehensive collection of production-ready matplotlib templates for creating publication-quality scientific figures. Designed for researchers, students, and anyone who needs professional visualizations with minimal setup.
+A comprehensive collection of production-ready matplotlib templates for creating publication-quality scientific figures. Designed for researchers, students, and anyone who needs professional visualizations with minimal setup. 
+
+Browse the examples folder and find a figure style you like; then just grab the matching template from the templates directory.
 
 [![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
 [![Matplotlib](https://img.shields.io/badge/matplotlib-3.0+-orange.svg)](https://matplotlib.org/)
@@ -57,7 +59,7 @@ Open any template, replace the sample data with yours, and adjust labels/colors 
 - **[Installation Guide](INSTALL.md)** - Detailed setup instructions including LaTeX configuration
 - **[Tutorial](TUTORIAL.md)** - Comprehensive guide for beginners
 - **[Quick Reference](QUICK_REFERENCE.md)** - Fast template selection guide
-- **[Examples Gallery](templates/)** - Sample outputs from each template and the corresponding python file
+- **[Examples Gallery](examples/)** - Sample outputs from each template and the corresponding python file
 
 
 ## 🎨 Features Highlights
